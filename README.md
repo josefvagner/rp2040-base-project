@@ -82,8 +82,3 @@ This is a base project for programming RP2040 microcontroller chips using the C/
 1. Connect the RP2040 board to your computer.
 2. Press and hold the BOOTSEL button while plugging the board into USB.
 3. Copy the generated `.uf2` file from the `build` directory to the RP2040 USB mass storage device.
-
-## License
-
-This project is licensed under the MIT License.
-```
